@@ -4,4 +4,3 @@ folium
 streamlit-folium
 streamlit_js_eval
 pygsheets
-st-pages==0.4.4
